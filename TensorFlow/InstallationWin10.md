@@ -28,8 +28,25 @@ Ref 2: https://stackoverflow.com/questions/65273118/why-is-tensorflow-not-recogn
 - (tf2) E:\Projects>conda install jupyter
 - (tf2) E:\Projects>jupyter notebook
 
+### TensorFlow 2.5
+Ref 1: https://discuss.tensorflow.org/t/tensorflow-2-5-with-gpu-device-python-3-9-cuda-11-2-2-cudnn-8-1-1-conda-environment-windows-10/1385
+
+- (base) E:\Projects>conda create -n tf2 python=3.9
+- (base) E:\Projects>conda activate tf2
+- (tf2) E:\Projects>conda install tensorflow-gpu
+- (tf2) E:\Projects>conda install ipykernel
+- (tf2) E:\Projects>python -m ipykernel install --user --name tf2 --display-name "Python 3.9 (Tensorflow 2.5)"
+- (tf2) E:\Projects>conda install -c conda-forge notebook
+- (tf2) E:\Projects>jupyter notebook
+
 ## Other useful libraries 
 
 - conda install -c anaconda pillow 
 - conda install -c numba numba 
 - conda install -c conda-forge opencv 
+- conda install -c conda-forge scikit-learn 
+- conda install pandas
+- pip install pydot
+- pip install pydotplus
+- conda install -c conda-forge matplotlib
+- conda install -c plotly plotly
