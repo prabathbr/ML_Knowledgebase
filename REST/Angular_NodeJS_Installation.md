@@ -1,4 +1,4 @@
-#Platform: Ubuntu 20.04 (Windows 10 - Build 2004 - WSL2)
+Platform: Ubuntu 20.04 (Windows 10 - Build 2004 - WSL2)
 
 ##Install and Test NodeJS
 
