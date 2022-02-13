@@ -1,6 +1,8 @@
 # PyTorch Nightly Installation
 ## Windows 10 + CUDA + Anaconda
 
+Ref: https://pytorch.org/get-started/locally/
+
 ```
 conda create -n pyt python=3.9
 conda activate pyt
