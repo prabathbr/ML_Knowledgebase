@@ -18,4 +18,5 @@ conda install -c conda-forge opencv
 conda install -c conda-forge scikit-learn
 conda install pandas
 conda install -c conda-forge matplotlib
-conda install -c plotly plotly```
+conda install -c plotly plotly
+```
