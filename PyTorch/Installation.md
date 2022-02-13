@@ -1,7 +1,7 @@
 # PyTorch Nightly Installation
 ## Windows 10 + CUDA + Anaconda
 
-conda create -n pyt python=3.9
+```conda create -n pyt python=3.9
 conda activate pyt
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch-nightly
 
@@ -18,4 +18,4 @@ conda install -c conda-forge opencv
 conda install -c conda-forge scikit-learn
 conda install pandas
 conda install -c conda-forge matplotlib
-conda install -c plotly plotly
+conda install -c plotly plotly```
