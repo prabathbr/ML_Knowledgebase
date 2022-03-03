@@ -25,4 +25,6 @@ conda install -c plotly plotly
 ```
 
 
-VSCode: https://github.com/numpy/numpy/issues/15183#issuecomment-603575874
+VSCode:  
+https://github.com/numpy/numpy/issues/15183#issuecomment-603575874  
+https://code.visualstudio.com/docs/python/environments
