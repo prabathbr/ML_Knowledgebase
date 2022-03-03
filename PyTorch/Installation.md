@@ -23,3 +23,6 @@ conda install pandas
 conda install -c conda-forge matplotlib
 conda install -c plotly plotly
 ```
+
+
+VSCode: https://github.com/numpy/numpy/issues/15183#issuecomment-603575874
