@@ -2,7 +2,11 @@ Ref :
 
 https://aumisb.github.io/2019/06/09/visual-studio-code-for-tex.html
 
-latex-workshop.latex.recipe.default -> lastUSed
+https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile#latex-workshoplatexrecipedefault
+
+latex-workshop.latex.recipe.default -> lastUsed   
+
+latex-workshop.latex.autoBuild.run -> onFileChange
 
 VSCode Settings : CTRL + SHIFT + P
 
