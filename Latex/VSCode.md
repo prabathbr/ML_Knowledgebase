@@ -1,4 +1,11 @@
-Ref : 
+Install :  (https://www.youtube.com/watch?v=4lyHIQl4VM8)  
+
+1. VSCode  
+2. MikTex and update as admin from console  
+3. Add VSCode addon LaTeX-Workshop  
+4. Perl (https://strawberryperl.com/)  
+
+Reference : 
 
 https://aumisb.github.io/2019/06/09/visual-studio-code-for-tex.html
 
