@@ -8,6 +8,7 @@ VSCode Settings : CTRL + SHIFT + P
 
 Receipe use : latexmk (xelatex)
 
+```
 % !TEX program = xelatex
 % !TeX TXS-program:bibliography = txs:///biber
 
@@ -31,3 +32,5 @@ doi=false,
 
 
 \printbibliography
+
+```
