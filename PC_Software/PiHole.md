@@ -55,3 +55,4 @@ curl -sSL https://install.pi-hole.net | bash
 
 https://docs.pi-hole.net/main/basic-install/  
 
+https://linux-hardware.org/?probe=21ae14e7a0  
