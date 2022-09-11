@@ -20,7 +20,8 @@ sudo nano /lib/udev/rules.d/40-usb_modeswitch.rules
 
 ```
 # Realtek 8811CU Wifi AC USB
-ATTR{idVendor}=="0bda", ATTR{idProduct}=="1a2b", RUN+="usb_modeswitch -K -v 0bda -p 1a2b"  
+ATTR{idVendor}=="0bda", ATTR{idProduct}=="1a2b", RUN+="/usr/sbin/usb_modeswitch -K -v 0bda -p 1a2b"
+
 ```
 
 Bus 001 Device 009: ID 0bda:1a2b Realtek Semiconductor Corp. RTL8188GU 802.11n WLAN Adapter (Driver CDROM Mode)  
