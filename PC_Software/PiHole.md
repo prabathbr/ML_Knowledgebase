@@ -50,3 +50,7 @@ apt install neofetch
 
 ```
 
+curl -sSL https://install.pi-hole.net | bash  
+
+https://docs.pi-hole.net/main/basic-install/  
+
