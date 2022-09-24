@@ -1,4 +1,4 @@
-# Insall on Windows without GIT with conda
+# Install on Windows without GIT with conda
 
 https://github.com/neonsecret/neonpeacasso  
 
