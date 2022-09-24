@@ -20,7 +20,7 @@ clone https://github.com/neonsecret/stable-diffusion
 
 pip install ./stable-diffusion-main  
 
-comment CLIP & latent-diffusion in swtup.py in neonpeacasso-master
+comment CLIP & latent-diffusion in setup.py in neonpeacasso-master
 
 clone https://github.com/neonsecret/neonpeacasso  
 
