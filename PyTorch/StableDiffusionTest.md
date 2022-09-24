@@ -30,6 +30,8 @@ fix error `AttributeError: module 'brotli' has no attribute 'error'`
 
 pip install brotli    
 
+pip install taming-transformers-rom1504 (bug fix : https://github.com/CompVis/stable-diffusion/issues/84 )
+
 neonpeacasso ui  --port=8080    
 
 give mode.ckpt path
