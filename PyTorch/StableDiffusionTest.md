@@ -36,8 +36,9 @@ neonpeacasso ui  --port=8080
 
 neonpeacasso ui  --host="0.0.0.0"  --port=8080  
 
-
 give mode.ckpt path
+
+test `portrait photo of a cat, 50mm portrait photography, hard rim lighting photography--beta`  
 
 # Pytorch test  
 
