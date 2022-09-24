@@ -26,6 +26,14 @@ clone https://github.com/neonsecret/neonpeacasso
 
 pip install ./neonpeacasso-master
 
+fix error `AttributeError: module 'brotli' has no attribute 'error'`  
+
+pip install brotli    
+
+neonpeacasso ui  --port=8080    
+
+give mode.ckpt path
+
 # Pytorch test  
 
 ```
