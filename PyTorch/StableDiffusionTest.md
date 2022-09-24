@@ -34,6 +34,9 @@ pip install taming-transformers-rom1504 (bug fix : https://github.com/CompVis/st
 
 neonpeacasso ui  --port=8080    
 
+neonpeacasso ui  --host="0.0.0.0"  --port=8080  
+
+
 give mode.ckpt path
 
 # Pytorch test  
