@@ -2,6 +2,10 @@ https://github.com/neonsecret/neonpeacasso
 
 https://huggingface.co/CompVis/stable-diffusion-v-1-4-original    
 
+https://pytorch.org/get-started/locally/  
+
+`conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch-nightly -c nvidia`
+
 # Pytorch test  
 
 ```
