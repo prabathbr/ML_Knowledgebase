@@ -1,3 +1,3 @@
 #compress  
 
-` tar -zcvf file. tar. gz /path/to/dir/ `
+` tar -zcvf file.tar.gz /path/to/dir/ `
