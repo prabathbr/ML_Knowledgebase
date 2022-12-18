@@ -4,4 +4,4 @@
 
 #uncompress multipart  
 
-cat tar.gz tar.gz1 ... tar.gz14 | tar -x  
+`cat tar.gz tar.gz1 ... tar.gz14 | tar -x `  
