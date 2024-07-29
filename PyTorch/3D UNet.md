@@ -14,4 +14,6 @@ https://medium.com/@rehman.aimal/implement-3d-unet-for-cardiac-volumetric-mri-sc
 
 https://github.com/aimalrehman92/CardiacMRI_3D_UNet_Pytorch
 
-https://github.com/aimalrehman92/CardiacMRI_3D_UNet_Pytorch
+
+
+https://www.youtube.com/results?search_query=3d+u-net+pytorch
