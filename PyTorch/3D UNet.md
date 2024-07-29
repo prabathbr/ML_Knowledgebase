@@ -17,3 +17,6 @@ https://github.com/aimalrehman92/CardiacMRI_3D_UNet_Pytorch
 
 
 https://www.youtube.com/results?search_query=3d+u-net+pytorch
+
+
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 216.00 GiB. GPU 0 has a total capacity of 24.00 GiB of which 0 bytes is free. Of the allocated memory 30.36 GiB is allocated by PyTorch, and 457.75 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
